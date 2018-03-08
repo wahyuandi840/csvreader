@@ -1,5 +1,5 @@
 # csvreader
-librari sederhanan untuk membaca file csv
+librari sederhana untuk membaca file csv
 Download package dengan composer
 ```
 composer require wahyuandi840/csvreader
