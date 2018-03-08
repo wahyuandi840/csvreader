@@ -1,0 +1,21 @@
+{
+    "name": "wahyuandi840/csvreader",
+    "description": "Library Serhana Untuk Membaca File CSV ke format Array",
+    "keywords": [
+        "Csv", "Reader","CSV Reader","Wahyu CSV Reader"
+    ],
+    "license": "MIT",
+    "authors": [  
+        {
+            "name": "Wahyu Andi Rejeki",
+            "email": "wahyuandi840@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Wahyu\\": "src"
+        }
+    }
+}
