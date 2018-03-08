@@ -5,7 +5,7 @@ author wahyu
 revisi tanggal 14 januari 2017
 penambahan autosupport csv dengan delimiter coma,semicolon,colon,pound,pipe 
 */
-namespace Wahyu\CsvReader;
+namespace Wahyu;
 class CsvReader{
 	private $jumlah_baris=0;
 	private $nama_file;
