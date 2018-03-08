@@ -52,7 +52,6 @@ class CsvReader{
 		foreach ($this->readData(';') as $data){
 			$jum=count($data);
 			$jumpattern=count($this->pattern);
-			//echo "AAA";
 			if ($jum==$jumpattern){
 				$this->match=true;
 				break;
