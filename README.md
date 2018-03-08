@@ -14,7 +14,7 @@ atau
 ```
 Penggunaan librari
 ```php
-//$kolom susaikan dengan kolom csv
+//$kolom sesuaikan dengan kolom csv
 $kolom=array("nama","alamat");
 $csv=new Wahyu\CsvReader("file.csv",$kolom);
 $output=$csv->proses();
