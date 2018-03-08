@@ -18,4 +18,4 @@ Penggunaan librari
 $kolom=array("nama","alamat");
 $csv=new Wahyu\CsvReader("file.csv",$kolom);
 $output=$csv->proses();
-```php
+```
