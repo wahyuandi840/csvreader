@@ -19,4 +19,5 @@ $kolom=array("nama","alamat");
 $csv=new Wahyu\CsvReader("file.csv",$kolom);
 //$output return array
 $output=$csv->proses();
+print_r($output);
 ```
