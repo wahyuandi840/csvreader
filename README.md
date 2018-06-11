@@ -17,5 +17,6 @@ Penggunaan librari
 //$kolom sesuaikan dengan kolom csv
 $kolom=array("nama","alamat");
 $csv=new Wahyu\CsvReader("file.csv",$kolom);
+//$output return array
 $output=$csv->proses();
 ```
